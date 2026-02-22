@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://stonewallinnconcert.pages.dev/sitemap.xml
+Sitemap: https://thestonewallinnsafespacesconcert.com/sitemap.xml
